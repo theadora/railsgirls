@@ -1,4 +1,5 @@
-/*=require_tree .
+/*
+ *=require_tree .
 */
 
 body { padding-top: 100px; }
@@ -6,3 +7,9 @@ footer { margin-top: 10px; }
 table, td, th { vertical-align: middle; border: none; }
 th { border-bottom: 1px solid #DDD; color: gray}
 th {background-color: yellow;}
+
+table .li{
+
+
+
+}
